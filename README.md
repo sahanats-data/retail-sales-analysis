@@ -30,6 +30,7 @@ The project follows a complete Business Intelligence workflow—from raw relatio
 ## 📂 Dataset
 
 **Dataset:** Brazilian E-Commerce Public Dataset (Olist)
+
 **Source:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 The project uses nine relational datasets:
